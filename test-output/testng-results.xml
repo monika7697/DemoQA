@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-19T19:26:49 IST" name="Suite" finished-at="2024-03-19T19:29:18 IST" duration-ms="149115">
+    <groups>
+    </groups>
+    <test started-at="2024-03-19T19:26:49 IST" name="Test" finished-at="2024-03-19T19:29:18 IST" duration-ms="149115">
+      <class name="DemoQA.Radio">
+        <test-method signature="ERadio(java.lang.String)[pri:0, instance:DemoQA.Radio@342c38f8]" started-at="2024-03-19T19:28:46 IST" name="ERadio" finished-at="2024-03-19T19:29:18 IST" duration-ms="31904" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://demoqa.com/elements]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ERadio -->
+      </class> <!-- DemoQA.Radio -->
+      <class name="DemoQA.Textbox">
+        <test-method signature="Etext(java.lang.String)[pri:0, instance:DemoQA.Textbox@43dac38f]" started-at="2024-03-19T19:28:38 IST" name="Etext" finished-at="2024-03-19T19:28:46 IST" duration-ms="8375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://demoqa.com/elements]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Etext -->
+      </class> <!-- DemoQA.Textbox -->
+      <class name="DemoQA.tables">
+        <test-method signature="ERadio(java.lang.String)[pri:0, instance:DemoQA.tables@6392827e]" started-at="2024-03-19T19:27:21 IST" name="ERadio" finished-at="2024-03-19T19:27:38 IST" duration-ms="17315" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://demoqa.com/elements]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ERadio -->
+      </class> <!-- DemoQA.tables -->
+      <class name="DemoQA1.Buttons">
+        <test-method signature="doubleclick(java.lang.String)[pri:0, instance:DemoQA1.Buttons@d5b810e]" started-at="2024-03-19T19:28:01 IST" name="doubleclick" finished-at="2024-03-19T19:28:38 IST" duration-ms="37401" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://demoqa.com/elements]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doubleclick -->
+      </class> <!-- DemoQA1.Buttons -->
+      <class name="DemoQA1.Links">
+        <test-method signature="L1(java.lang.String)[pri:0, instance:DemoQA1.Links@2ed2d9cb]" started-at="2024-03-19T19:27:38 IST" name="L1" finished-at="2024-03-19T19:28:01 IST" duration-ms="22049" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://demoqa.com/elements]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- L1 -->
+      </class> <!-- DemoQA1.Links -->
+      <class name="DemoQA.checkbox">
+        <test-method signature="Echeck(java.lang.String)[pri:0, instance:DemoQA.checkbox@48f278eb]" started-at="2024-03-19T19:26:49 IST" name="Echeck" finished-at="2024-03-19T19:27:21 IST" duration-ms="32008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://demoqa.com/elements]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Echeck -->
+      </class> <!-- DemoQA.checkbox -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="URL" value="https://demoqa.com/elements"/>
+    <classes>
+      <class name="DemoQA1.Links">
+        <methods>
+          <include name="L1" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- DemoQA1.Links -->
+      <class name="DemoQA.Textbox">
+        <methods>
+          <include name="Etext" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- DemoQA.Textbox -->
+      <class name="DemoQA.tables">
+        <methods>
+          <include name="ERadio" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- DemoQA.tables -->
+      <class name="DemoQA.checkbox">
+        <methods>
+          <include name="Echeck" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- DemoQA.checkbox -->
+      <class name="DemoQA1.Buttons">
+        <methods>
+          <include name="doubleclick" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- DemoQA1.Buttons -->
+      <class name="DemoQA.Radio">
+        <methods>
+          <include name="ERadio" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- DemoQA.Radio -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
